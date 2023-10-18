@@ -1,0 +1,63 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(95, 80, 228);
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: rgb(95, 80, 228);
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-racao .nav-link.active:hover {
+    color: #fff;
+}
+
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: pacifico, cursive;
+}
+
+#sobre-a-loja, #racao {
+    background-color: rgb(231, 229, 254);
+    text-align: justify;
+}
+
+#produtos {
+    text-align: justify;
+    background-color: #fff;
+}
+
+.text-colored {
+    color: rgb(95, 80, 228);
+}
+
+.nav-racao .nav-link.active,
+#fale-conosco button {
+    background-color:  rgb(95, 80, 228);
+    color: #fff;
+}
+
+.nav-racao .nav-link:hover {
+    color: rgb(95, 80, 228);
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+
